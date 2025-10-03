@@ -227,14 +227,6 @@ GtaStories/
 4. **Push** a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un **Pull Request**
 
-## 📋 Roadmap
-
-- [ ] 🔐 Sistema de autenticación OAuth2
-- [ ] 📱 Dashboard web administrativo
-- [ ] 🔔 Notificaciones push
-- [ ] 📊 Métricas avanzadas con gráficos
-- [ ] 🌐 Soporte multi-idioma
-- [ ] 🔄 Integración con APIs externas
 
 ## 📄 Licencia
 
@@ -246,6 +238,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Desarrollado con ❤️ para la comunidad de GTA Stories**
 
-[🔗 Discord](https://discord.gg/Mja2bY6n) •
+[🔗 Discord](https://discord.gg/Mja2bY6n)
+
 
 </div>
