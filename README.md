@@ -541,10 +541,7 @@ Template de Issue:
 
 ### 🆘 **Soporte y Comunidad**
 
-- **💬 Discord**: [Servidor de Soporte](https://discord.gg/gtastories)
-- **📧 Email**: soporte@gtastories.es  
-- **🐛 Issues**: [GitHub Issues](https://github.com/luckav-dev/Bot-Whitelist/issues)
-- **📖 Wiki**: [Documentación Completa](https://github.com/luckav-dev/Bot-Whitelist/wiki)
+- **💬 Discord**: [Servidor de Soporte](https://discord.gg/R6sjA6JTjx)
 
 ---
 
@@ -577,3 +574,4 @@ Ver el archivo LICENSE para más detalles
 [⬆️ Volver al inicio](#-gta-stories-bot---sistema-de-whitelist-avanzado)
 
 </div>
+
